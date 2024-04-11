@@ -1,0 +1,117 @@
+.hero {
+  display: flex;
+  padding: 60px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+
+.hero_left {
+  margin-top: 100px;
+}
+
+.hero_right img {
+  height: 500px;
+}
+
+.hero_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gen_pdf {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+footer {
+  margin-top: 50px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.footer-info {
+  display: flex;
+  align-items: top;
+  justify-content: space-evenly;
+}
+
+.social {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.copyright {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+/* style.css */
+
+/* Header */
+header {
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand img {
+  margin-top: 5px;
+}
+
+/* Main */
+main {
+  padding: 20px;
+}
+
+.gen_pdf {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card {
+  width: 80%;
+  max-width: 400px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+
+.card-subtitle {
+  margin-bottom: 5px;
+  font-size: 1rem;
+  color: #6c757d;
+}
+
+.topic {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-range {
+  margin-bottom: 15px;
+}
+
+.slider_value {
+  font-weight: bold;
+}
+
+/* Footer */
+footer {
+  background-color: #f8f9fa;
+  padding: 10px 0;
+  text-align: center;
+}
+

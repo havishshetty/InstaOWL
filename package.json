@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "node": "^18.20.0",
+    "openai": "^4.31.0",
+    "pdfkit": "^0.15.0"
+  }
+}
